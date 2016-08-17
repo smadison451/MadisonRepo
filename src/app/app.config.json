@@ -1,0 +1,14 @@
+{
+  "appname": "MadisonRepo",
+  "scope": "FullAccess",
+  "clientid": "122B32C1-38EB-4034-AC82-6FADA32FA94F",
+  "buyerid": "TestMadison",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
